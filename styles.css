@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+
+.container{
+	display : flex;
+	justify-content : center;
+	font-size : 40px;
+	flex-flow : row wrap;
+}
+.a1 {
+	width : 100px;
+	height : 100px;
+	background-color : green;
+}
+
+.a2 {
+	width : 100px;
+	height : 100px;
+	background-color : red;
+}
+
+.a3 {
+	width : 100px;
+	height : 100px;
+	background-color : blue;
+}
